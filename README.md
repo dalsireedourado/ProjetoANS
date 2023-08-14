@@ -45,4 +45,4 @@ Sinta-se à vontade para contribuir com melhorias e expandir este projeto de aco
 
 Dalsirée Dourado de Azevedo Oliveira
 
-*Este é um projeto básico e inicial. Certamente há espaço para melhorias significativas e expansões. Este README também pode ser aprimorado com mais detalhes sobre cada etapa e capturas de tela dos gráficos resultantes.*
+*Este é um projeto básico e inicial. Certamente há espaço para melhorias significativas e expansões.*
